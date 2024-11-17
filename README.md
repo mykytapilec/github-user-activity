@@ -16,7 +16,7 @@ This project is a command-line interface (CLI) application built using the NestJ
 
 1. Clone the Repository
 
-  git clone <repository-url>
+  git clone https://github.com/mykytapilec/github-user-activity.git
   cd github-activity-cli
 
 2. Install Dependencies
