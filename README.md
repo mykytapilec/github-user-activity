@@ -12,6 +12,9 @@ This project is a command-line interface (CLI) application built using the NestJ
   - Axios: For making HTTP requests to the GitHub API.
   - Commander: A library for building command-line interfaces.
 
+### Project URL 
+https://roadmap.sh/projects/github-user-activity
+
 ### Installation
 
 1. Clone the Repository
